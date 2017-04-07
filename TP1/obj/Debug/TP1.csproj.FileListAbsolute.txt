@@ -1,0 +1,9 @@
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\bin\Debug\TP1.exe.config
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\bin\Debug\TP1.exe
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\bin\Debug\TP1.pdb
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\obj\Debug\TP1.Form1.resources
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\obj\Debug\TP1.Properties.Resources.resources
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\obj\Debug\TP1.csproj.GenerateResource.Cache
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\obj\Debug\TP1.exe
+c:\users\emanuel\documents\visual studio 2012\Projects\Calculadora\TP1\obj\Debug\TP1.pdb
